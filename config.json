@@ -8,12 +8,12 @@
         {
           "value": "`!`",
           "answer": false,
-          "explanation": "Not quite, but I appreciate your enthusiasm.\n"
+          "explanation": "Not quite, but I appreciate your enthusiasm."
         },
         {
           "value": "`;`",
           "answer": true,
-          "explanation": "Correct! A semicolon is put at the end of almost every line of code. All the other punctuations have other meanings we'll discuss soon!\n"
+          "explanation": "Correct! A semicolon is put at the end of almost every line of code. All the other punctuations have other meanings we'll discuss soon!"
         },
         {
           "value": "`)`",
@@ -33,7 +33,7 @@
         {
           "value": "Yes",
           "answer": true,
-          "explanation": "Correct, it is a very common thing to have small typos when writing code. Sometimes, your typos will be just that the case is wrong.\n"
+          "explanation": "Correct, it is a very common thing to have small typos when writing code. Sometimes, your typos will be just that the case is wrong."
         },
         {
           "value": "No",
@@ -48,17 +48,17 @@
         {
           "value": "`endl;`",
           "answer": false,
-          "explanation": "This line of code represents a new line, but it doesn't do any printing.\n"
+          "explanation": "This line of code represents a new line, but it doesn't do any printing."
         },
         {
           "value": "`cout << \"endl\";`",
           "answer": false,
-          "explanation": "This line of code will just print out `endl` to the console.\n"
+          "explanation": "This line of code will just print out `endl` to the console."
         },
         {
           "value": "`cout << endl;`",
           "answer": true,
-          "explanation": "Correct, this line will print out a new line printed out to the console.\n"
+          "explanation": "Correct, this line will print out a new line printed out to the console."
         },
         {
           "value": "`cout << newline;`",
@@ -73,17 +73,17 @@
         {
           "value": "`cout << Hello World!;`",
           "answer": false,
-          "explanation": "Remember, to print out specific words we need to use double quotes (`\"`).\n"
+          "explanation": "Remember, to print out specific words we need to use double quotes (`\"`)."
         },
         {
           "value": "`Cout << \"Hello World!\";`",
           "answer": false,
-          "explanation": "Almost, code is case sensitive.\n"
+          "explanation": "Almost, code is case sensitive."
         },
         {
           "value": "`cout << 'Hello World!';`",
           "answer": false,
-          "explanation": "Almost, to print out specific words you need to surround what you want to output with double quotes (`\"`).\n"
+          "explanation": "Almost, to print out specific words you need to surround what you want to output with double quotes (`\"`)."
         },
         {
           "value": "`cout << \"Hello World!\";`",
