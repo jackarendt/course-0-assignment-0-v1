@@ -38,7 +38,7 @@
         {
           "value": "No",
           "answer": false,
-          "explanation": "Even though computers are really smart, they take things very literally.\n"
+          "explanation": "Even though computers are really smart, they take things very literally."
         }
       ]
     },
@@ -63,7 +63,7 @@
         {
           "value": "`cout << newline;`",
           "answer": false,
-          "explanation": "This line is attempting to print something, but `newline` doesn't mean anything in C++ so this will be a syntax error.\n"
+          "explanation": "This line is attempting to print something, but `newline` doesn't mean anything in C++ so this will be a syntax error."
         }
       ]
     },
@@ -88,7 +88,7 @@
         {
           "value": "`cout << \"Hello World!\";`",
           "answer": true,
-          "explanation": "Correct, this line of code will print `Hello World!` to the console.\n"
+          "explanation": "Correct, this line of code will print `Hello World!` to the console."
         }
       ]
     }
@@ -150,7 +150,7 @@
       "hints": []
     },
     {
-      "question": "\nWrite out 3 sentences describing a bit about yourself. The output should all be printed out on a single line.",
+      "question": "Write out 3 sentences describing a bit about yourself. The output should all be printed out on a single line.",
       "hints": []
     }
   ]
